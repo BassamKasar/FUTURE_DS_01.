@@ -28,7 +28,6 @@ This project involves a comprehensive analysis of the **Superstore Sales Dataset
 4. **Product Bundling:** Bundle high-margin Technology accessories with lower-margin items to increase the Average Order Value (AOV).
 
 ## 📂 Project Structure
-* `Sample - Superstore.csv`: The raw dataset used for analysis.
+* `Sample - Superstore.csv`: The raw dataset used for analysis: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * `Reports/`: Professional PDF report containing executive summaries.
 * `Dashboard/`: The interactive analysis file (Power BI/Excel).
-* `Visuals/`: Screenshots of the key performance charts.
